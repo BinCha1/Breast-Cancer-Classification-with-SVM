@@ -30,29 +30,14 @@ The application allows users to:
 ## Screenshots
 
 Linear classification  
-![Linear Classification](linear_ui1.png)
-
+![Linear Classification](screenshots\linear_ui1.png)
 RBF Classification  
-![RBF Classification](rbf_ui2.png)
+![RBF Classification](screenshots\rbf_ui2.png)
 
 New Data Prediction Form
-![New Data Prediction Form](prediction_newdata_rbfmodel_UI.png)
+![New Data Prediction Form](screenshots\prediction_newdata_rbfmodel_UI.png)
 
 ---
-
-## Repository Structure
-
-svm-breast-cancer-streamlit/
-│── main.py
-│── requirements.txt
-│── notebooks/
-│ └── breast_cancer_svm.ipynb
-│── flowchart_of_breastCancer.png
-│── screenshots/
-│ ├── linear_ui1.png
-│ ├── rbf_ui2.png
-│ └── prediction_newdata_rbfmodel_UI.png
-│── README.md
 
 ## Results
 
